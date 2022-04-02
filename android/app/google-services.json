@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806172552912",
+    "project_id": "hear-me-5006a",
+    "storage_bucket": "hear-me-5006a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806172552912:android:500ee7e49e4df0b8a638d5",
+        "android_client_info": {
+          "package_name": "com.benzatine.hearme.hear_me_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806172552912-trm4k7fekv4146alfd6uvevv9aumai0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FQERdasmmMG6atXYH8Gfok1SJhSO4s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806172552912-trm4k7fekv4146alfd6uvevv9aumai0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
